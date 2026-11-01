@@ -156,6 +156,61 @@ No macOS, o equivalente nativo ao mapa de caracteres é o **Visualizador de Cara
 
 ---
 
+## 📖 Guia de Significados (Referência Rápida)
+
+### Geometria e Álgebra
+
+- **`∠`** — Ângulo
+- **`°`** — Grau (unidade de medida)
+- **`⊥`** — Perpendicularidade
+- **`∥`** — Paralelismo
+- **`△`** — Triângulo
+- **`≅`** — Congruente
+- **`∼`** — Semelhante
+- **`π`** — Pi (razão da circunferência, $\approx 3,14159$)
+- **`∫`** — Integral
+- **`∮`** — Integral de linha fechada
+- **`√`** — Raiz quadrada
+- **`∛`** — Raiz cúbica
+- **`∞`** — Infinito
+
+### Significados de Teoria de Conjuntos e Lógica
+
+- **`∈`** — Pertence a
+- **`∉`** — Não pertence a
+- **`∪`** — União de conjuntos
+- **`∩`** — Intersecção de conjuntos
+- **`⊂`** — Contido estritamente em (subconjunto próprio)
+- **`⊆`** — Contido ou igual a (subconjunto)
+- **`∅`** — Conjunto vazio
+- **`⇒`** — Implica (condicional)
+- **`⇔`** — Se e somente se (bicondicional)
+- **`∧`** — E lógico (Conjunção)
+- **`∨`** — Ou lógico (Disjunção)
+- **`¬`** — Negação lógica (Não)
+- **`∀`** — Para todo (Quantificador universal)
+- **`∃`** — Existe (Quantificador existencial)
+- **`∴`** — Portanto
+- **`∵`** — Visto que / Porque
+
+### Estatística, Probabilidade e Inferência
+
+- **`μ`** — Média populacional
+- **`σ`** — Desvio padrão populacional
+- **`σ²`** — Variância populacional
+- **`x̄`** — Média amostral
+- **`s`** — Desvio padrão amostral
+- **`s²`** — Variância amostral
+- **`P(A)`** — Probabilidade do evento A
+- **`P(A|B)`** — Probabilidade condicional (A dado B)
+- **`E(X)`** — Esperança matemática (Valor esperado)
+- **`Var(X)`** — Variância de uma variável aleatória
+- **`H₀`** — Hipótese nula
+- **`H₁`** — Hipótese alternativa
+- **`α`** — Nível de significância (Erro Tipo I)
+- **`β`** — Probabilidade de Erro Tipo II
+- **`χ²`** — Qui-quadrado
+
 ## 👤 Autor e Licença
 
 Autor: Cristiano Batista Pessoa
